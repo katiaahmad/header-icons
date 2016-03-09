@@ -3,6 +3,50 @@ html {
   font-family: "Merriweather",serif;
 }
 
+h1 {
+  color: #ffffff;
+  text-align: center;
+  margin: 0;
+  font-size: 2rem;
+}
+
 *,*::before, *::after {
   box-sizing: inherit;
+}
+
+header {
+  background-color: #d05c2e;
+  padding: 0;
+}
+
+img {
+  width:50px;
+}
+
+ul {
+  font-size: 1.125rem;
+  list-style-type: none;
+  color: #ffffff;
+  text-align: center;
+  
+
+}
+
+.grain-left {
+  float: left;
+  width: 50px;
+}
+
+.grain-right {
+  float: right;
+  width: 50px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  padding:
 }
